@@ -1,0 +1,19 @@
+:root {
+    --vilagos-kek: #1283b9;
+    --sotet-kek: #06435f;
+  }
+
+header {
+    background-image: url("../img/balaton_bg.jpg");
+    height: 400px;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navbar {
+    background-color: var(--sotet-kek) !important;
+}
