@@ -25,6 +25,7 @@ figcaption {
 table {
     width: 80%;
     margin: auto;
+    box-shadow: 1px 10px 3px var(--sotet-kek);
 }
 
 table thead {
